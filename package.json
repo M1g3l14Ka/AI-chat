@@ -1,0 +1,11 @@
+{
+  "name": "lite-chat-with-ai",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "npx @vercel/node@latest api/chat.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1"
+  }
+}
