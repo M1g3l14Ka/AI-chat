@@ -1,5 +1,7 @@
 # AI Voice Assistant
 
+## **Live** [https://lite-chat.michaelkasion.ru/](https://lite-chat.michaelkasion.ru/)
+
 # Hi there 👋
 Interactive web application that allows users to communicate with an AI via text or voice. Built as a full-stack project to demonstrate modern web development practices.
 
